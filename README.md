@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Manage Dark Mode in ReactJs, With Listener to Detect Dark-Mode in the Browser](https://dev.to/gustavogomez/manage-dark-mode-in-reactjs-with-listener-to-detect-dark-mode-in-the-browser-3120)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
