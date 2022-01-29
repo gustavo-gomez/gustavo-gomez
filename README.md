@@ -15,6 +15,9 @@
 
 - 📫 How to reach me **contacto@gustavogomez.dev**
 
+[![Contact me on Codementor](https://www.codementor.io/m-badges/gomezf09/im-a-cm-g.svg)](https://www.codementor.io/@gomezf09?refer=badge)
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Manage Dark Mode in ReactJs, With Listener to Detect Dark-Mode in the Browser](https://dev.to/gustavogomez/manage-dark-mode-in-reactjs-with-listener-to-detect-dark-mode-in-the-browser-3120)
@@ -32,6 +35,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo-gomez&theme=dark" alt="gustavo-gomez" /></p>
-
-
-[![Contact me on Codementor](https://www.codementor.io/m-badges/gomezf09/im-a-cm-g.svg)](https://www.codementor.io/@gomezf09?refer=badge)
