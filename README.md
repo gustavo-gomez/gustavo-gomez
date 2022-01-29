@@ -32,3 +32,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo-gomez&theme=dark" alt="gustavo-gomez" /></p>
+
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/gomezf09/im-a-cm-g.svg)](https://www.codementor.io/@gomezf09?refer=badge)
