@@ -17,10 +17,6 @@
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/gomezf09/im-a-cm-g.svg)](https://www.codementor.io/@gomezf09?refer=badge)
 
-<!-- Microsoft:START -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f7fdd51a-ccde-4d49-a84d-4b763528c06a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<!-- Microsoft:END -->
-
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
