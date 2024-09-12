@@ -27,7 +27,6 @@
 <p align="left">
 <a href="https://dev.to/gustavogomez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gustavogomez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luis-gustavo-gomez-fasanando-b523158b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-gustavo-gomez-fasanando-b523158b" height="30" width="40" /></a>
-<a href="https://instagram.com/gomezf09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gomezf09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
