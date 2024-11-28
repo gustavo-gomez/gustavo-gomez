@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on **improving my dev skills**
 
-- 🌱 I’m currently learning **reactJs, react-native**
+- 🌱 I’m currently learning **AWS, NextJS, react-native**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📝 I regularly write articles on [https://dev.to/gustavogomez](https://dev.to/gustavogomez)
-
-- 💬 Ask me about **reactJs, react-native, Java**
+- 💬 Ask me about **ReactJs, TypeScrypt, NextJS, react-native, Java**
 
 - 📫 How to reach me **contacto@gustavogomez.dev**
 
